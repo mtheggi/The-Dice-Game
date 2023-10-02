@@ -12,8 +12,8 @@ Deployed Website:
 
 
 ## Demo Video 
+<img src="./Demo/Demo.webm"> </img>
 
-![The-Dice-Game](./Demo/Demo.webm)
 ## Built With
 
   * HTML
