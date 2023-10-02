@@ -8,12 +8,12 @@ Simple Dice Game implemented using HTML, CSS and JavaScript. Once the user click
 Deployed Website: 
 
 
-![Dice-Game](./images/Project.png)
+![The-Dice-Game](./images/Project.png)
 
 
 ## Demo Video 
 
-![]
+![The-Dice-Game](./Demo/Demo.webm)
 ## Built With
 
   * HTML
