@@ -12,7 +12,7 @@ Deployed Website:
 
 
 ## Demo Video 
-<img src="./Demo/Demo.webm"> </img>
+<img src="./Demo/Demo.gif"> </img>
 
 ## Built With
 
