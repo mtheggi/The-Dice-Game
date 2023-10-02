@@ -5,7 +5,7 @@ Using HTML, CSS, and JavaScript, a straightforward dice game was created. The di
 
 ## Deployment
 
-Deployed Website: [not deplyed yet]
+Deployed Website: [not deployed yet-- Deploy when repo go public]
 
 
 ![The-Dice-Game](./images/Project.png)
